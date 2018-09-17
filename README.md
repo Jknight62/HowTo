@@ -1,2 +1,2 @@
 # HowTo
-Created for Assignment 3B
+Created for Lesson 3, Assignment 3B
